@@ -1,0 +1,113 @@
+body{
+    background-color: #E1EEDD;
+    margin: 0px;
+    text-align: center;
+}
+h3{
+    font-family: 'Merriweather', serif; 
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    border: dotted 6px;
+    border-bottom: none;
+    width: 40px;
+    color: cadetblue;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: aliceblue;
+}
+.onvan{
+    margin-top: 220px;
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;
+}
+.bio{
+
+    /**  font-family: 'Merriweather', serif;**/
+    font-family: 'Montserrat', sans-serif
+
+}
+.top-cloud{
+    width: 250px;
+    position: absolute;
+    top: 30px;
+    right: 220px;
+
+}
+.bottom-cloud{
+    width: 250px;
+    position: absolute;
+    top: 250px;
+    left: 220px;
+}
+.mountain{
+    margin-top: 250px;
+    width: 650px;
+}
+.profilephoto{
+    margin-top: 20px;
+    width: 150px;
+}
+.skillConfectionary{
+    width: 150px;
+
+}
+.skilcooking{
+    width: 150px;
+
+}
+.Confectionary{
+    margin: 16px auto 16px ;
+    width: 70%;
+}
+.cooking{
+    margin: 16px auto 16px ;
+    width: 70%;
+}
+.finalname{
+    font-family: 'Montserrat', sans-serif
+
+}
+.spantest{
+color: gold;
+}
+.bottom-container{
+    background-color: cadetblue;
+    padding: 50px 0 20px;
+    margin-top: 40px;
+}
+.btn {
+    background: #d5e09c;
+    background-image: -webkit-linear-gradient(top, #d5e09c, #86cc6e);
+    background-image: -moz-linear-gradient(top, #d5e09c, #86cc6e);
+    background-image: -ms-linear-gradient(top, #d5e09c, #86cc6e);
+    background-image: -o-linear-gradient(top, #d5e09c, #86cc6e);
+    background-image: linear-gradient(to bottom, #d5e09c, #86cc6e);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Courier New;
+    color: #000000;
+    font-size: 21px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #8FAEC7
+    ;
+    background-image: -webkit-linear-gradient(top, #8FAEC7, #8FAEC7);
+    background-image: -moz-linear-gradient(top, #8FAEC7, #8FAEC7);
+    background-image: -ms-linear-gradient(top, #8FAEC7, #8FAEC7);
+    background-image: -o-linear-gradient(top, #8FAEC7, #8FAEC7);
+    background-image: linear-gradient(to bottom, #8FAEC7, #8FAEC7);
+    text-decoration: none;
+  }
+  .footer-link{
+    margin: 10px;
+  }
